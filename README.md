@@ -18,7 +18,7 @@ Crack as many passwords as possible with available tools (e.g. use Hashcat). Her
 4. Draft an email/memo briefly explaining your findings in relation to controls used by the organization and your proposed uplifts. We recommend spending about 1.5 hours on this task and keeping it at 1 page in length. 
 5. Your answer should be provided in the form of a draft email/memo explaining your findings and conclusions of controls currently used by an organization to prevent successful cracking of passwords and potential uplifts that you would propose to existing controls with justifications.
 
-Raw File - [Report.docx](https://github.com/shiwanisabnis/Crack_Password_Goldman_Sachs/files/8865794/Report.docx)
+Raw File - [Raw_Report.docx](https://github.com/shiwanisabnis/Crack_Password_Goldman_Sachs/files/8865851/Raw_Report.docx)
 
 #UnQuote#
 ______________________________________________________________________________________________________________________________________________________________
@@ -60,4 +60,8 @@ https://en.wikipedia.org/wiki/Password_cracking#Software
 
 https://en.wikipedia.org/wiki/Salt_(cryptography)
 
+https://hashcat.net/hashcat/
+
 https://crackstation.net/
+
+https://hashes.com/en/decrypt/hash
